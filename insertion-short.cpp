@@ -1,7 +1,7 @@
 //Using C++ online compiler at :
 //https://www.programiz.com/cpp-programming/online-compiler/
 
-//Insertion Sort
+//Insertion Sort Version 1
 
 #include <iostream>
 using namespace std;
