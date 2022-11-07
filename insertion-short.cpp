@@ -50,5 +50,5 @@ int main() {
     }
     
     return 0;
-    //source : https://www.softwaretestinghelp.com/insertion-sort/
+    //referensi : https://www.softwaretestinghelp.com/insertion-sort/
 }
